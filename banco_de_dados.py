@@ -16,6 +16,8 @@ try:
     #con.commit()
     #cur.close()
 
+    
+
     print(pessoas)
 
     cur.close()
